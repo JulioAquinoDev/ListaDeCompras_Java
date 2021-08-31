@@ -18,8 +18,6 @@
 
 ### Wireframes:
 
-![](Wireframes\TelaPrincipal.jpg)
-
-![](Wireframes\GestaoDeProdutos.jpg)
-
-![](Wireframes\AddProdutoNaLista.jpg)
+<img src="Wireframes\TelaPrincipal.jpg">
+<img src="Wireframes\GestaoDeProdutos.jpg">
+<img src="Wireframes\AddProdutoNaLista.jpg">
